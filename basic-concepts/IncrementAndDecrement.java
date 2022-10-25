@@ -3,7 +3,7 @@
 
 import java.util.Scanner;
 
-public class WhoScoredMore {
+public class IncrementAndDecrement {
 
   public static void main(String[] args) {
     
