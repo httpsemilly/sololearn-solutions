@@ -3,7 +3,7 @@
 
 import java.util.Scanner;
 
-public class CarSalon {
+public class ConditionalStats {
 
   public static void main(String[] args) {
   
